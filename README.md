@@ -61,7 +61,7 @@ Caso deseje realizar a ação utilizando um terminal:
 ## 4. Executando o projeto
 
 Para executar o módulo via terminal: 
-1. Acesse o diretório do arquivo que deseja executar (Ex: ... `cd git/icx`); 
+1. Acesse o diretório do arquivo que deseja executar (Ex: ... `cd git/codigo.py`); 
 2. Execute o comando: `python3 main.py`
 
 ## 5. Sincronizando o "Fork" com repositório oficial:
