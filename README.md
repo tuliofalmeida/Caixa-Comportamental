@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 [Configurar um *remote* para o *fork*]: https://help.github.com/en/articles/configuring-a-remote-for-a-fork
 [Sincronizar o fork]: https://help.github.com/en/articles/syncing-a-fork
 [Relizar push (Remotes e forks)]: https://help.github.com/en/articles/pushing-commits-to-a-remote-repository
-[Quadro kanban do projeto]: https://github.com/tuliofalmeida/Caixa-Comportamental/projects/1
+[Quadro de tarefas do projeto]: https://github.com/tuliofalmeida/Caixa-Comportamental/projects/1
 [Issues do projeto]: https://github.com/tuliofalmeida/Caixa-Comportamental/issues
 [Git - guia prático]: https://rogerdudler.github.io/git-guide/index.pt_BR.html
 [VSCode]: https://code.visualstudio.com/
